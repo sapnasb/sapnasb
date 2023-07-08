@@ -1,13 +1,14 @@
 ### Hi there 👋  I am Sapna
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Sapna%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Sapna%20☺️&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
+
+Streaks
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sapnasb)](https://git.io/streak-stats)
 
-
-tech stack
+Tech stack
 
 ### 🛠 &nbsp;Tech Stack
 
