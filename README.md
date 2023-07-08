@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Sapna%20☺️&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
+Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Streaks
 
