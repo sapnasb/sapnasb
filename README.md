@@ -1,8 +1,15 @@
-### Hi there 👋  I am Sapna
+### Hi there 👋  I am Sapna 
+<p align="right">
+  <img
+    src="https://komarev.com/ghpvc/?username=sapnasb"
+    alt="sapnasb"
+  />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Sapna%20☺️&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20There%20I'm%20Sapna%20☺😀&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
+
 Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sapnasb)](https://github.com/sapnasb/github-readme-stats)
@@ -33,9 +40,3 @@ Tech stack
 
 
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=sapnasb"
-    alt="sapnasb"
-  />
-</p>
