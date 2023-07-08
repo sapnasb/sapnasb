@@ -1,11 +1,10 @@
 ### Hi there 👋  I am Sapna
 
-<!--
-**sapnasb/sapnasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Sapna%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sapnasb)](https://git.io/streak-stats)
-
-Here are some ideas to get you started:
 
 
 tech stack
