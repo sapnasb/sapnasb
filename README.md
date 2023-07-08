@@ -7,16 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey!%20There%20I'm%20Sapna%20☺😀&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20I'm%20Sapna%20😀&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
-Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sapnasb)](https://github.com/sapnasb/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sapnasb)](https://github.com/sapnasb/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=sapnasb)](https://git.io/streak-stats)
 
-Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sapnasb)](https://git.io/streak-stats)
 
 Tech stack
 
